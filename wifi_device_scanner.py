@@ -8,7 +8,7 @@ HOUR_IN_SEC = 3600
 MINUTE_IN_SEC = 60
 
 IP_NETWORK_RANGE = '<YourNetworkId>/<range>' #'192.168.1.1/24'
-IP_DEVICE = '<YourNetworkId>' #'192.168.1.116'
+IP_DEVICE = '<YourDeviceId>' #'192.168.1.116'
 YOUTUBE_MUSIC_URL = '<YotubeUrl>' #'https://www.youtube.com/watch?v=nIso825-Ko4'
 PROJECT_PATH = '<YourProjectPath>' #'C:/Users/admin/Desktop/apps/wifi_device_scanner'
 
